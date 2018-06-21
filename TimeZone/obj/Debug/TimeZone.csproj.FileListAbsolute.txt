@@ -1,0 +1,7 @@
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\bin\Debug\TimeZone.exe.config
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\bin\Debug\TimeZone.exe
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\bin\Debug\TimeZone.pdb
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\obj\Debug\TimeZone.csprojResolveAssemblyReference.cache
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\obj\Debug\TimeZone.csproj.CoreCompileInputs.cache
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\obj\Debug\TimeZone.exe
+F:\WORK\Programming\C#\VisualC#\TimeZone\TimeZone\TimeZone\obj\Debug\TimeZone.pdb
